@@ -1,3 +1,7 @@
+// EDGAR DAVIN DANUARTA
+// 235150701111039 - TI-D
+// PEMROGRAMAN LANJUT - LK02
+
 import java.util.Scanner;
 
 class Driver {
